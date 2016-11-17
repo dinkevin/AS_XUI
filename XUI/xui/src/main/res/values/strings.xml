@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XUI</string>
+    <string name="xui_release_to_refresh">松开刷新</string>
+    <string name="xui_refreshing">刷新数据</string>
+    <string name="xui_load_more">加载更多……</string>
+    <string name="xui_no_more">没有更多数据</string>
+</resources>
